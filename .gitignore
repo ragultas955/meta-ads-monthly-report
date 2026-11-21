@@ -1,0 +1,8 @@
+# Keep client data and generated reports out of the repo
+*.csv
+*.xlsx
+*.xls
+*.pptx
+*.pdf
+*.html
+.DS_Store
